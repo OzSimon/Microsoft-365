@@ -1,0 +1,6 @@
+[submodule "Module-Exchange-Online"]
+	path = Module-Exchange-Online
+	url = https://github.com/OzSimon/Module-Exchange-Online.git
+[submodule "Module-SharePoint-Online"]
+	path = Module-SharePoint-Online
+	url = https://github.com/OzSimon/Module-SharePoint-Online.git
