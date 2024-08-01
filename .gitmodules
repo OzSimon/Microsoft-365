@@ -4,3 +4,6 @@
 [submodule "Module-SharePoint-Online"]
 	path = Module-SharePoint-Online
 	url = https://github.com/OzSimon/Module-SharePoint-Online.git
+[submodule "Module-Teams"]
+	path = Module-Teams
+	url = https://github.com/OzSimon/Module-Teams.git
